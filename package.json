@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-mongoose",
+  "version": "1.0.0",
+  "description": "1: ODM: Object Data Modeling for Node.js     2: in mongoose have store with vson     3: Abstraction from row low level MongoDB     4: Relationship between NoSQL Data     5: Provides Schema Validation     6: Object - Data Mapping- translation of data into object that our code undestands and vice versa     7: 40 -60% less code compared to row mongoDB package     8:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4",
+    "nodemon": "^3.0.2"
+  }
+}
